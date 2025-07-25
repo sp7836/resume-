@@ -1,2 +1,2 @@
-# resume-
-My Resume for web development course 
+# Portfolio-
+My Portfolio for web development course 
